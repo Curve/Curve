@@ -8,8 +8,6 @@
 #### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff)
-![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=fff)
-
 ---
 
 <p>
