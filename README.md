@@ -14,5 +14,3 @@
   <img align="left" alt="Curve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Curve&show_icons=true&hide_border=true&theme=dark" />
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curve&layout=compact&hide_border=true&theme=dark" />
 </p>
-
-<a rel="me" href="https://autisten.club/@Curve"/>
