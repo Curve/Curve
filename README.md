@@ -1,6 +1,6 @@
 ### <div align="center"> Hi 👋, I'm Noah </div>
 ---
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Curve&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Curve"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Curve&theme=tokyonight&hide_border=true" /></a>
 
 - 🔭 I’m currently working on
   - [Soundux](https://github.com/Soundux/Soundux) 
