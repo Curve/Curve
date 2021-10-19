@@ -42,8 +42,8 @@
 ---
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Curve&theme=tokyonight&hide_border=true" height=150>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curve&layout=compact&theme=tokyonight&hide_border=true" height=150>
+  <a href="https://github.com/Curve"><img src="http://github-readme-streak-stats.herokuapp.com?user=Curve&theme=tokyonight&hide_border=true" height=150></a>
+  <a href="https://github.com/Curve"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curve&layout=compact&theme=tokyonight&hide_border=true" height=150></a>
 </div>
 
 ---
