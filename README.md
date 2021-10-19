@@ -1,4 +1,4 @@
-# <div align="center"> Hi 👋, I'm Noah </div>
+### <div align="center"> Hi 👋, I'm Noah </div>
 ---
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Curve&theme=tokyonight&hide_border=true" />
 
@@ -42,5 +42,10 @@
 ---
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Curve&theme=tokyonight&hide_border=true">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Curve&theme=tokyonight&hide_border=true" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curve&layout=compact&theme=tokyonight&hide_border=true" height=150>
 </div>
+
+---
+
+
