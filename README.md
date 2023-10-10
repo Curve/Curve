@@ -8,7 +8,7 @@ I'm Noah, a C++ Enthusiast and Full-Stack Developer from Germany
 
 ---
 
-<h4 align="middle">🔨 Some things I'm working on</h4>
+<h4 align="middle">🔨 Some stuff I'm working on</h4>
 <br/>
 <p align="middle">
   <a href="https://github.com/Soundux/" alt="Soundux" target="_blank"><img src="https://avatars.githubusercontent.com/u/74979035?s=200&v=4" width="100" /></a>
