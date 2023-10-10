@@ -26,6 +26,6 @@ I'm Noah, a C++ Enthusiast and Full-Stack Developer from Germany
 ---
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=curve&theme=shadow_red&bg_color=00000000&hide_border=true&hide_title=true&include_all_commits=true&hide=stars" height="170" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curve&theme=shadow_red&bg_color=00000000&hide_border=true&hide_title=true&layout=donut&langs_count=4" height="170" /> 
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=curve&theme=shadow_red&bg_color=00000000&hide_border=true&hide_title=true&include_all_commits=true&hide=stars" height="150" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curve&theme=shadow_red&bg_color=00000000&hide_border=true&hide_title=true&layout=donut&langs_count=4" height="150" /> 
 </div>
