@@ -8,7 +8,7 @@ I'm Noah, a C++ Enthusiast and Full-Stack Developer from Germany
 
 ---
 
-<h4 align="middle">🔨 Check these out</h4>
+<h4 align="middle">🔨 Some things I'm working on</h4>
 <br/>
 <p align="middle">
   <a href="https://github.com/Soundux/" alt="Soundux" target="_blank"><img src="https://avatars.githubusercontent.com/u/74979035?s=200&v=4" width="100" /></a>
@@ -16,7 +16,7 @@ I'm Noah, a C++ Enthusiast and Full-Stack Developer from Germany
   <a href="https://github.com/CoroModLoader/" alt="CoroModLoader" target="_blank"><img src="https://avatars.githubusercontent.com/u/142049397?s=200&v=4" width="100" /></a>
 </p>
 
-<h4 align="middle">🤝 and them</h4>
+<h4 align="middle">🤝 Check out my friends</h4>
 <br/>
 <p align="middle">
   <a href="https://github.com/ravi0lii" alt="ravi0lii" target="_blank"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/31647414?v=4&fit=cover&mask=circle&maxage=7d" width="100" /></a>
