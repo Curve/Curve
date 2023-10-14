@@ -2,7 +2,7 @@
 
 ### 👋 Welcome to my GitHub Profile!
 
-I'm Noah, a C++ Enthusiast and Full-Stack Developer from Germany
+I'm Noah, a C++ Enthusiast and Software Engineering Student from Germany
 
 </div>
 
