@@ -13,6 +13,7 @@ I'm Noah, a C++ Enthusiast and Software Engineering Student from Germany
 <p align="middle">
   <a href="https://github.com/Soundux/" alt="Soundux" target="_blank"><img src="https://avatars.githubusercontent.com/u/74979035?s=200&v=4" width="100" /></a>
   <a href="https://github.com/saucer/" alt="Saucer" target="_blank"><img src="https://avatars.githubusercontent.com/u/88903276?s=200&v=4" width="100" /></a>
+  <a href="https://github.com/Vencord/venmic" alt="Venmic" target="_blank"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113042587?v=4&fit=cover&mask=circle&maxage=7d" width="100" /></a>
   <a href="https://github.com/CoroModLoader/" alt="CoroModLoader" target="_blank"><img src="https://avatars.githubusercontent.com/u/142049397?s=200&v=4" width="100" /></a>
 </p>
 
