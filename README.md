@@ -11,13 +11,14 @@ Some projects I've been working on recently:
 
 * 🎧 Linux audio screenshare for discord: [venmic](https://github.com/Vencord/venmic)
 
-* 🎲 A simple, compiler agnostic, C++20 reflection library: [rebind](https://github.com/Curve/rebind)
+* 🎲 A simple, compiler agnostic, C++23 reflection library: [rebind](https://github.com/Curve/rebind)
 
 * 🔊 A cross-platform soundboard: [Soundux](https://github.com/Soundux/)
 
 ... I'm also involved in:
 
 * <img src="https://github.com/ViennaTools/ViennaPS/raw/master/assets/logo.png" height="15"> [ViennaTools](https://github.com/ViennaTools/)
+* <img src="https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet/raw/master/public/icon.webp" height="15"> [AreWeAntiCheatYet](https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet)
 
 See my pinned repositories for more!
 
